@@ -8,3 +8,4 @@ what is your aim ?
 what is your long term goal ?
 what is your short term goal ?
 what is your mobile brand ?
+what is your mobile battery capacity ?
